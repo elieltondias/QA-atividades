@@ -1,1 +1,1 @@
-# QA-atividades
+#Atividades do Workshop de QA.
