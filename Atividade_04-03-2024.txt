@@ -1,0 +1,24 @@
+RESPONSIVIDADE:
+ERRO 1: a Pagina exibe o conteúdo muito pequeno em telas de smartphones podendo em muitos casos a ser ilegíveis.
+
+Cadastro:
+ERRO 1: senha pode ter apenas 1 carácter assim como o nome
+ERRO 2: palavras que compõem o e-mail podem conter acentos.
+ERRO 3: Não a opção de editar os dados de login como e-mail e senha
+ERRO 4: Não ha limite aparente para o numero de caracteres do nome de usuário.
+
+LOGIN:
+ERRO 1: Conta pode ser criada sem um e-mail real que possa ser confirmado.
+ERRO 2: Não existe opção de recuperar senha.
+
+CONTAS:
+ERRO 1: O nome da conta pode conter caracteres especiais
+
+CRIAR MOVIMENTAÇÃO:
+ERRO 1: Data do pagamento pode ser antes da data de movimentação
+ERRO 2: O o campo interessado pode conter números
+ERRO 3: A descrição da movimentação não é opcional como é o padrão
+ERRO 5: pode ser adicionado sinal negativo ao valor
+
+RESUMO MENSAL:
+ERRO 1: é possível criar a movimentação antes de 2010 porem não são exibidas no resumo mensal pois o limite é de 2010 ate 2029.
